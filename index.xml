@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>@74th</title>
+    <link>74th.tech/</link>
+    <description>Recent content on @74th</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Sun, 13 Dec 2015 17:48:00 +0900</lastBuildDate>
+    
+	<atom:link href="74th.tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>@74th</title>
+      <link>74th.tech/index.html</link>
+      <pubDate>Sun, 13 Dec 2015 17:48:00 +0900</pubDate>
+      
+      <guid>74th.tech/index.html</guid>
+      <description> @74thの個人サイト
+作ってるもの  技術書典6頒布: Customizing Python Shell xonsh 技術書典5頒布: ShellScriptの代わりにPythonタスクランナーFabric&amp;amp;Invokeを活用する技術 技術書典4頒布: 構造化と性能の間をGolangで攻める技術 技術書典3頒布: Visual Studio Code デバッグ技術 PS3/PS4のレース・ドライブ・車ゲーム一覧（コメント・感想つき） 遊んだゲーム Dead Cells Fun vim Style for VSCodeVisual Studio Code用のVimキーバインド拡張機能 flying whaleあらゆるパッケージマネージャーを、あらゆる環境で使えるように MacOS用NVIDIA GPU(CUDA)をサポートするTensorflowパッケージ Linux用IntelCPU拡張命令をサーポートするTensorflowをビルドする ITは遊び はてなブログ（更新してない）  Visual Studio Codeの拡張機能  vim Style for VSCode: Vimキーバインド拡張機能 scrollkey: スクロールキー追加 NaturalContrast Theme with High contrast: ハイコントラストフレームのNatural Contrast Monokai Charcoal high contrast: ハイコントラストフレームのMonokai Chacoral  docker  dockernized Redmine all in one -SVN, Gitホスティング、アジャイルプラグイン入りのRedmine簡単構築 dockerについて Slideshare Dockerにホームディレクトリをマウントしちゃおう - ITは遊び dockerは求めていたものを全て提供してくれた - ITは遊び flying whaleあらゆるパッケージマネージャーを、あらゆる環境で使えるように  me  Twitter @74th blog ITは遊び github 74th dockerhub 74th slideshare 74th Qiita 74th dotfiles:vimrc, bashrc, atom  旧コンテンツ  Vimチートシート: Vim1年目の頃に作ったチートシート  創作小説  彼女が魔法使いだと告白した夜(短編／一番の自信作) 妹が女として可愛くなっていく／姉の私はどうなのか（短編） 恋をするのも面倒で（長編／自分の好きなものを書いたけどうまくない） その他の作品はこちら  昔作ったフリーゲーム  こちらから  </description>
+    </item>
+    
+  </channel>
+</rss>

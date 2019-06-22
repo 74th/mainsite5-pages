@@ -1,25 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>@74th</title>
-    <link>74th.tech/</link>
-    <description>Recent content on @74th</description>
+    <title>games on @74th</title>
+    <link>74th.tech/game/</link>
+    <description>Recent content in games on @74th</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Sat, 08 Jun 2019 17:48:00 +0900</lastBuildDate>
     
-	<atom:link href="74th.tech/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="74th.tech/game/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Secret Technique</title>
-      <link>74th.tech/deadcells/secret/</link>
-      <pubDate>Sun, 26 May 2019 00:01:43 +0000</pubDate>
-      
-      <guid>74th.tech/deadcells/secret/</guid>
-      <description>Dead Cells 裏技
- 巨人の両手で地面を叩いた後に天井からクリスタルが降ってくる攻撃は、攻撃したあとに、ゲームを中断すると、リセットされる いつでもセーブできて、セーブデータはコピーできるので、実質セーブ＆リトライ可能  </description>
-    </item>
     
     <item>
       <title>PS4、PS3のレース・ドライブ・車ゲーム一覧（コメント・感想つき）</title>
@@ -56,58 +46,6 @@ Steam版にて、ノーマルはサカダチスタイルでクリア、ハード
 公式サイト
 プラットフォーム : Win(Steam), PS4, PSVita, XBox360
  </description>
-    </item>
-    
-    <item>
-      <title>創作小説</title>
-      <link>74th.tech/old/novel/</link>
-      <pubDate>Sun, 20 Sep 2015 09:51:54 +0900</pubDate>
-      
-      <guid>74th.tech/old/novel/</guid>
-      <description>中学生から大学生までの創作の記録。自分が面白いと思う順番に掲載。
-新編・魔法使いの彼女と僕 ＜短編＞(21歳)
-テーマ「魔法使いの願いと理系の反発」
-「もっと素敵なことに魔法は使えるはず」その運命に毒されてきた彼女と、魔法を拒む理系の僕の物語。
-
-合評記録（ネタバレ有り）
-旅行にて ＜短編＞（20歳）
-テーマ「愛とは」「小さな旅物語」
-妹が女としてかわいくなったと思う。姉の私が言うのだからまず間違いはない。そんな私と、友達と、妹と、その恋人の九州旅行。
-
-合評記録（ネタバレ有り）
-恋をするのも面倒で ＜長編＞（21歳）
-テーマ「曖昧な三角関係」
-交錯する感情。初めから見えていた結末に収束する。恋をするのも面倒で、もう恋なんかしたくなくなって。ただ一日で恋に落ちれば、そのまま結婚届を出してしまうような、そんな適当な恋で良い。 ここから再出発。拡散できるだけの成長。そしてふたたび収束。
-
-魔法使いの彼女と僕 ＜短編＞（旧・20歳）
-こっちの方も妙に怖いので合わせて読むと面白いという意見もあり。
-
-合評記録（ネタバレ有り）
-青人空コンクリート ＜千字＞（19歳）
-テーマ「天高く」
-
-僕と、僕を支配するもの ＜千字＞（18歳）
-テーマ「ヒトそのもののロボットの恋愛事」
-君はロボットなんだ。エッ、そうなの！
-読む
-Mikado ＜千字＞(18歳)
-テーマ「価値観」 今まで会ったいろんなヒトにいろんなな事を言われて私は育ってまいりました。
-読む
-私暦～わたくしごよみ～ ＜千字＞（17歳）
-テーマ「価値観」
-今まで会ったいろんなヒトにいろんなな事を言われて私は育ってまいりました。
-読む
-クガハツネ ＜中編＞（19歳）
-テーマ「曖昧な三角関係」
-朝を過ごす女友達、玖珂。本来の恋人、竹元。曖昧な男、和坂。この三人が織りなす、存在しないはずの三角関係
-
-Battle! Battle! Battle! ＜千字＞（18）
-テーマ「テーマ無しに純粋に面白いアクションモノの小説」
-読む
-フレンズハンター ＜長編＞（中２～高２）
-テーマ「仲間と使命」
-友達、だった。それは過去の話。もうあいつは友達じゃない。吸血鬼だから、人でもない。吸血鬼と吸血鬼狩りと仲間と……
- 一括(txt) 序章　夜 第一章　発端 第二章　交錯 終章　それから  「人殺すんだけどさ、手伝ってくれない？」と唯一無二の親友は言った。 ＜千字＞（19）</description>
     </item>
     
   </channel>

@@ -1,11 +1,11 @@
 .dark {
-  color: #333 !important;
+  color: #DDDDDD !important;
 }
 .light {
-  color: #666 !important;
+  color: #C4C4C4 !important;
 }
 .accent {
-  color: #428bca !important;
+  color: #77A6D1 !important;
 }
 @media (min-width: 550px) {
   .small-screens-only {
@@ -31,6 +31,8 @@ a:active {
   text-decoration: none;
 }
 html {
+  background-color: #0D0D0D;
+  color: #DDDDDD;
   height: 100%;
   font-size: 16px;
 }
@@ -56,7 +58,7 @@ body {
   min-height: 100%;
   font-weight: 400;
   font-family: 'Open Sans', 'Helvetica Neue', 'Arial', sans-serif;
-  color: #111;
+  color: #DDDDDD;
   line-height: 1.6;
   text-rendering: optimizeLegibility !important;
 }
@@ -145,7 +147,7 @@ section.main {
   }
 }
 section.header {
-  background-color: #f7f7f7;
+  background-color: #0D0D0D;
 }
 section.header .container {
   -webkit-align-items: center;
@@ -182,7 +184,7 @@ section.header .name {
   font-family: 'Raleway', 'Helvetica Neue', 'Arial', sans-serif;
   letter-spacing: -0.005rem;
   font-weight: 700;
-  color: #333;
+  color: #DDDDDD;
   text-transform: uppercase;
   color: #555;
 }
@@ -191,7 +193,7 @@ section.header h3.self-intro {
   font-family: 'Raleway', 'Helvetica Neue', 'Arial', sans-serif;
   letter-spacing: -0.005rem;
   font-weight: 700;
-  color: #333;
+  color: #DDDDDD;
   font-weight: 400;
   color: #555;
   margin-bottom: 1rem;
@@ -231,7 +233,7 @@ section.header nav ul a {
   transition: color 0.1s cubic-bezier(0.47, 0, 0.75, 0.72);
 }
 section.header nav ul a:hover {
-  color: #111;
+  color: #DDDDDD;
 }
 @media (min-width: 600px) {
   section.header {
@@ -250,7 +252,7 @@ section.header nav ul a:hover {
     align-items: flex-start;
   }
   section.header .name {
-    color: #333;
+    color: #DDDDDD;
   }
   section.header nav {
     font-size: 14px;
@@ -260,14 +262,14 @@ section.header nav ul a:hover {
     text-align: left;
   }
   section.header nav ul a {
-    color: #666;
+    color: #C4C4C4;
   }
   section.header nav ul a:hover {
-    color: #333;
+    color: #DDDDDD;
   }
 }
 section.icons {
-  background-color: #f7f7f7;
+  background-color: #0D0D0D;
 }
 section.icons .container {
   -webkit-align-items: center;
@@ -334,7 +336,7 @@ section.main .container {
   justify-content: flex-start;
 }
 section.main .content {
-  color: #111;
+  color: #DDDDDD;
   font-size: 16px;
 }
 section.main .content .title-container {
@@ -354,12 +356,12 @@ section.main .content .title-container .initials {
   font-family: 'Raleway', 'Helvetica Neue', 'Arial', sans-serif;
   letter-spacing: -0.005rem;
   font-weight: 700;
-  color: #333;
+  color: #DDDDDD;
   text-transform: uppercase;
-  color: #666;
+  color: #C4C4C4;
 }
 section.main .content .title-container .initials a {
-  color: #666;
+  color: #C4C4C4;
   -webkit-transition: color 0.1s cubic-bezier(0.47, 0, 0.75, 0.72);
   -moz-transition: color 0.1s cubic-bezier(0.47, 0, 0.75, 0.72);
   -ms-transition: color 0.1s cubic-bezier(0.47, 0, 0.75, 0.72);
@@ -367,14 +369,14 @@ section.main .content .title-container .initials a {
   transition: color 0.1s cubic-bezier(0.47, 0, 0.75, 0.72);
 }
 section.main .content .title-container .initials a:hover {
-  color: #333;
+  color: #DDDDDD;
 }
 section.main .content .page-heading {
   font-size: 18px;
   font-family: 'Raleway', 'Helvetica Neue', 'Arial', sans-serif;
   letter-spacing: -0.005rem;
   font-weight: 700;
-  color: #333;
+  color: #DDDDDD;
   text-transform: uppercase;
   margin-bottom: 16px;
 }
@@ -382,7 +384,7 @@ section.main .content .front-matter .page-heading {
   margin-bottom: 0;
 }
 section.main .content .front-matter .meta {
-  color: #666;
+  color: #C4C4C4;
   display: -webkit-flex;
   display: -moz-flex;
   display: -ms-flexbox;
@@ -479,7 +481,7 @@ section.main .container .content .post-item {
   list-style: disc inside;
 }
 section.main .container .content .post-item .meta {
-  color: #666;
+  color: #C4C4C4;
   display: none;
   min-width: 100px;
   text-align: right;
@@ -496,8 +498,8 @@ section.main .container .content .no-bullet .date {
   font-family: 'Raleway', 'Helvetica Neue', 'Arial', sans-serif;
   letter-spacing: -0.005rem;
   font-weight: 700;
-  color: #333;
-  color: #666 !important;
+  color: #DDDDDD;
+  color: #C4C4C4 !important;
   font-style: normal;
 }
 section {
@@ -544,7 +546,7 @@ section.main {
   }
 }
 a {
-  color: #428bca;
+  color: #77A6D1;
   -webkit-transition: color 0.1s cubic-bezier(0.47, 0, 0.75, 0.72);
   -moz-transition: color 0.1s cubic-bezier(0.47, 0, 0.75, 0.72);
   -ms-transition: color 0.1s cubic-bezier(0.47, 0, 0.75, 0.72);
@@ -567,7 +569,7 @@ img.profile {
   }
 }
 .page-heading a {
-  color: #333;
+  color: #DDDDDD;
 }
 section.main .content .markdown h1,
 section.main .content .markdown h2,
@@ -579,7 +581,7 @@ section.main .content .markdown h6 {
   font-family: 'Raleway', 'Helvetica Neue', 'Arial', sans-serif;
   letter-spacing: -0.005rem;
   font-weight: 700;
-  color: #333;
+  color: #DDDDDD;
   text-transform: none;
   margin-top: 1.75rem;
 }
@@ -606,7 +608,7 @@ section.main .content .markdown code,
 section.main .content .markdown pre {
   font-family: 'Ubuntu Mono', 'Menlo', monospace;
   font-size: 1rem;
-  background-color: #f7f7f7;
+  background-color: #0D0D0D;
 }
 section.main .content .markdown code {
   /* enclosed by single backtick (`) */
@@ -631,7 +633,7 @@ section.main .content .markdown pre code {
   font-size: 1rem;
 }
 section.main .content .markdown a code {
-  color: #428bca !important;
+  color: #77A6D1 !important;
 }
 section.main .content .markdown a code:hover {
   text-decoration: underline;
@@ -683,7 +685,7 @@ section.main .content .markdown hr {
 section.main .content .markdown abbr {
   font-size: 0.85rem;
   font-weight: bold;
-  color: #666666;
+  color: #C4C4C4666;
   text-transform: uppercase;
 }
 section.main .content .markdown abbr[title] {
@@ -706,7 +708,8 @@ section.main .content .markdown blockquote p:last-child {
   }
 }
 section.main .content .markdown img {
-  margin: 1rem 0;
+  /* margin: 1rem 0; */
+  margin: 0;
   max-width: 100%;
 }
 section.main .content .markdown table {
@@ -722,5 +725,5 @@ section.main .content .markdown th {
 }
 section.main .content .markdown tbody tr:nth-child(odd) td,
 section.main .content .markdown tbody tr:nth-child(odd) th {
-  background-color: #f7f7f7;
+  background-color: #0D0D0D;
 }

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Olds on @74th</title>
-    <link>74th.tech/old/</link>
+    <link>https://74th.tech/old/</link>
     <description>Recent content in Olds on @74th</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Sun, 20 Sep 2015 09:51:54 +0900</lastBuildDate>
     
-	<atom:link href="74th.tech/old/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://74th.tech/old/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>創作小説</title>
-      <link>74th.tech/old/novel/</link>
+      <link>https://74th.tech/old/novel/</link>
       <pubDate>Sun, 20 Sep 2015 09:51:54 +0900</pubDate>
       
-      <guid>74th.tech/old/novel/</guid>
+      <guid>https://74th.tech/old/novel/</guid>
       <description>中学生から大学生までの創作の記録。自分が面白いと思う順番に掲載。
 新編・魔法使いの彼女と僕 ＜短編＞(21歳)
 テーマ「魔法使いの願いと理系の反発」

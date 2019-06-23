@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>技術書典3お品書き on @74th</title>
-    <link>74th.tech/events/techbookfest3/</link>
+    <link>https://74th.tech/events/techbookfest3/</link>
     <description>Recent content in 技術書典3お品書き on @74th</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Sun, 22 Oct 2017 17:48:00 +0900</lastBuildDate>
     
-	<atom:link href="74th.tech/events/techbookfest3/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://74th.tech/events/techbookfest3/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

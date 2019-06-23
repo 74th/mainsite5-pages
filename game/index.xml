@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>games on @74th</title>
-    <link>74th.tech/game/</link>
+    <link>https://74th.tech/game/</link>
     <description>Recent content in games on @74th</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Sat, 08 Jun 2019 17:48:00 +0900</lastBuildDate>
     
-	<atom:link href="74th.tech/game/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://74th.tech/game/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>PS4、PS3のレース・ドライブ・車ゲーム一覧（コメント・感想つき）</title>
-      <link>74th.tech/game/ps4ps3race/</link>
+      <link>https://74th.tech/game/ps4ps3race/</link>
       <pubDate>Sun, 31 Dec 2017 07:30:00 +0900</pubDate>
       
-      <guid>74th.tech/game/ps4ps3race/</guid>
+      <guid>https://74th.tech/game/ps4ps3race/</guid>
       <description>最終更新: 2017/07/18
 PS4、PS3のレースゲームをひたすら買い集めてプレイするページ。実車のリアル志向のレースゲームの紹介が基本です。一部海外版のもありますが、日本amazon、もしくは海外PSNで購入でき、日本のPS4、PS3で動作します。
 レースゲームとは、以下のような、大人になった今やれるゲーム。ぜひやろう！
@@ -29,10 +29,10 @@ Codemasters 北米2017/06/06 日本2017/07/27(プレイ済み)</description>
     
     <item>
       <title>ローグライクアクションゲーム</title>
-      <link>74th.tech/game/loguelikeaction/</link>
+      <link>https://74th.tech/game/loguelikeaction/</link>
       <pubDate>Fri, 17 Feb 2017 08:21:00 +0900</pubDate>
       
-      <guid>74th.tech/game/loguelikeaction/</guid>
+      <guid>https://74th.tech/game/loguelikeaction/</guid>
       <description> プレイするたびにステージが変わるローグライクアクションにはまっている。
 Nuclear Throne downwell ジャンプ中にジャンプボタンを押すとショットするガンブーツを使って、どんどん下に潜っていく軽快なアクションゲーム。ショットすると少し空中に浮かび上がり、さらに敵を踏みつけると残弾がチャージされるため、このショットを調整して敵を次々と踏みつけるアクションが基本となる。操作感が抜群に良く、すごく楽しい。
 iOS版とSteam版を購入したが、iOS版ではうまく操作ができなかったが、Steam版でゲームコントローラでプレイしたところ、思い通りに操作できてはまった。

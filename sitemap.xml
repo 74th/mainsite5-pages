@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://74th.tech/game/</loc>
+    <lastmod>2021-01-01T10:25:00+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://74th.tech/</loc>
     <lastmod>2020-07-12T13:00:00+09:00</lastmod>
   </url>
@@ -15,11 +20,6 @@
   <url>
     <loc>https://74th.tech/vscode-book-review/</loc>
     <lastmod>2020-07-01T00:09:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://74th.tech/game/</loc>
-    <lastmod>2020-05-06T09:52:00+09:00</lastmod>
   </url>
   
   <url>
